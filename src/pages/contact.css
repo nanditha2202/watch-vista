@@ -1,0 +1,65 @@
+.rey1{
+    background-color: darkgrey;
+}
+
+.pic1 {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.styled-text {
+    color: #333;
+    font-size: 35px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    margin-left: 10px;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    line-height: 5.5;
+    
+}
+
+.pic2 {
+    display: grid;
+    grid-template-columns: auto auto;
+
+}
+
+.pic3 {
+    display: grid;
+    grid-template-columns: auto auto;
+
+}
+
+.pic4 {
+    display: grid;
+    grid-template-columns: auto auto;
+
+}
+
+.end {
+    width: 1957px;
+    float: left;
+    padding: 20px 0px;
+    background: #333;
+}
+
+.footer-parts {
+    width: 300px;
+    padding: 0px 50px;
+    float: left;
+}
+
+.footer-parts-h3 {
+    font-size: 30px;
+    font-weight: 600;
+    color: #FFF;
+    padding: 10px 0px;
+}
+
+.footer-parts-p {
+    color: #000;
+    line-height: 24px;
+    text-align: justify;
+    color: #FFF;
+}
