@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/watch-vista/static/css/main.0214b545.css",
+    "main.js": "/watch-vista/static/js/main.36cddbbd.js",
+    "static/js/787.6962f9d7.chunk.js": "/watch-vista/static/js/787.6962f9d7.chunk.js",
+    "static/media/img3.png": "/watch-vista/static/media/img3.4559cdb2a7900941a191.png",
+    "static/media/img2.png": "/watch-vista/static/media/img2.88d1db77d853846f06c0.png",
+    "static/media/img4.png": "/watch-vista/static/media/img4.131141989079413073ad.png",
+    "static/media/img1.png": "/watch-vista/static/media/img1.471da7cf72c9faceedc1.png",
+    "static/media/watch2.jpg": "/watch-vista/static/media/watch2.fbe371e2b11cdc103814.jpg",
+    "static/media/watch1.jpg": "/watch-vista/static/media/watch1.b60d562bd676dd544534.jpg",
+    "static/media/watch6.jpg": "/watch-vista/static/media/watch6.6a34db839639ff513c7e.jpg",
+    "static/media/watch7.jpg": "/watch-vista/static/media/watch7.12835cd61f16880c46f5.jpg",
+    "static/media/watch3.jpeg": "/watch-vista/static/media/watch3.7a9fb05edc7ab7eca45d.jpeg",
+    "static/media/watch5.jpeg": "/watch-vista/static/media/watch5.c30ec366d4ec0cb17615.jpeg",
+    "static/media/watch10.jpg": "/watch-vista/static/media/watch10.9a605e0a0c73d7fc7b41.jpg",
+    "static/media/watch8.jpg": "/watch-vista/static/media/watch8.b0b1e5dc9c862f05b3ad.jpg",
+    "static/media/watch13.jpeg": "/watch-vista/static/media/watch13.69d21b673517d3467be1.jpeg",
+    "static/media/watch12.jpeg": "/watch-vista/static/media/watch12.dbdfdf0eba8e645f27ba.jpeg",
+    "static/media/watch14.jpeg": "/watch-vista/static/media/watch14.508376a5e84ad0968203.jpeg",
+    "static/media/watch9.jpg": "/watch-vista/static/media/watch9.4523e3e82893f71e0a5e.jpg",
+    "static/media/watch4.jpeg": "/watch-vista/static/media/watch4.81ecc2ff8c72e94a9c23.jpeg",
+    "static/media/watch11.jpeg": "/watch-vista/static/media/watch11.becff4190b9168750e53.jpeg",
+    "index.html": "/watch-vista/index.html",
+    "main.0214b545.css.map": "/watch-vista/static/css/main.0214b545.css.map",
+    "main.36cddbbd.js.map": "/watch-vista/static/js/main.36cddbbd.js.map",
+    "787.6962f9d7.chunk.js.map": "/watch-vista/static/js/787.6962f9d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0214b545.css",
+    "static/js/main.36cddbbd.js"
+  ]
+}
